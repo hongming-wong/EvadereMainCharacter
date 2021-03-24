@@ -1,0 +1,239 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 8006 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Admin/Desktop/Project/Character
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56570
+Successfully changed project path to: C:/Users/Admin/Desktop/Project/Character
+C:/Users/Admin/Desktop/Project/Character
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 101.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Admin/Desktop/Project/Character/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d12)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008714 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 79.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.922 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.789 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1260 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 7.111500 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.149000 ms MarkObjects: 6.321700 ms  DeleteObjects: 0.273200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3356c59859945759eb1585c26d3eea96') in 0.641768 seconds
+  Import took 0.652756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.729273 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12399536e384d94775a8224cd760e73e') in 0.216011 seconds
+  Import took 0.232500 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001523 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.534 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1255 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1715.
+Total: 5.434000 ms (FindLiveObjects: 0.958700 ms CreateObjectMapping: 0.268800 ms MarkObjects: 4.064400 ms  DeleteObjects: 0.137700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.472028 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab2849bd96ce6bf628ede12db1cdd0a') in 0.274591 seconds
+  Import took 0.285515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.426450 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32827ddd27fd5430cde8a14061cf9d28') in 0.083397 seconds
+  Import took 0.091759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.292542 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece11410282ebbe983d6a321b129caf4') in 0.165372 seconds
+  Import took 0.180424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.114580 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8b6ad0c77e10b43cb86eba59937aa') in 0.108365 seconds
+  Import took 0.121938 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1254 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1719.
+Total: 4.099000 ms (FindLiveObjects: 0.304100 ms CreateObjectMapping: 0.084400 ms MarkObjects: 3.601100 ms  DeleteObjects: 0.106700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.268975 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b2b3a2de0b23984d4c014b2169b6a4') in 0.266884 seconds
+  Import took 0.280257 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002707 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.006 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1254 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 6.406300 ms (FindLiveObjects: 1.286300 ms CreateObjectMapping: 0.217500 ms MarkObjects: 4.787300 ms  DeleteObjects: 0.111900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.618223 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef89c90618b4317bed437c097762e8e') in 0.246923 seconds
+  Import took 0.256182 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.084 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1254 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1727.
+Total: 5.971200 ms (FindLiveObjects: 0.664500 ms CreateObjectMapping: 0.260600 ms MarkObjects: 4.857400 ms  DeleteObjects: 0.182200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.757615 seconds.
+  path: Assets/Prefabs/EnergyCell_1_1.prefab
+  artifactKey: Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnergyCell_1_1.prefab using Guid(acf28ce8dc850b846a50501ccd34c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4632cd3488b951d2fc29d72c07d73f61') in 0.286339 seconds
+  Import took 0.297108 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
